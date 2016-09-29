@@ -7,15 +7,16 @@ package helloworldapp;
 
 /**
  *
- * @author John Martin Sharebox
+ * @author John Martin
  */
 public class HelloWorldApp {
 
     /**
-     * @param args the command line arguments
-     */
+    * The HelloWorldApp class implements an application that
+    * simply prints "Hello World!" to standard output.
+    */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Hello World!"); // Display the string
     }
     
 }
