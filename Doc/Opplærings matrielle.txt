@@ -1,0 +1,7 @@
+Linker til div opplærings matrielle
+
+https://learnjavathehardway.org/book/
+
+http://programming-motherfucker.com/become.html#Java
+
+http://docs.oracle.com/javase/tutorial/ (Denne blir brukt nå)
